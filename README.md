@@ -7,7 +7,7 @@ The LayerZero Monitoring Dashboard - web application that provides easy way of i
 The project is split into three packages:
 
 - [`@lz/backend`](packages/backend) - Backend application that provides API for the frontend. Responsible for data extraction and transformation from the blockchain.
-- [`@lz/frontend`](packages/frontend) - Frontend application that provides UI for the user. Responsible for combining data from backend and 3rd part services such as Safe Transaction Service.
+- [`@lz/frontend`](packages/frontend) - Frontend application that provides UI for the user. Responsible for combining data from backend and third-party services such as Safe Transaction Service.
 - [`@lz/libs`](packages/libs) - Shared code between backend and frontend. API contracts, interfaces & other utilities.
 
 ## Installation
